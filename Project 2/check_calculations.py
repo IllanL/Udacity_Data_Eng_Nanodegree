@@ -2,9 +2,8 @@ import configparser
 import psycopg2
 
 def calculations(cur,conn):
-    """
-    Operates the calculations described within
-    """
+    """Operates the calculations described within
+    Queries defined in sql_queries.py file"""
     
     calc_queries = ["""SELECT a.name AS name, COUNT(*) AS song_count FROM artists AS a JOIN songs AS b ON a.artist_id=b.artist_id GROUP BY a.name"""]
 

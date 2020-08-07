@@ -5,18 +5,28 @@ from sql_queries import copy_table_queries, insert_table_queries
 
 
 def load_staging_tables(cur, conn):
+    
+    """Function that copies the tables from the S3 bucket into our project
+    Queries defined in sql_queries.py file"""
+    
+    
     for query in copy_table_queries:
         cur.execute(query)
         conn.commit()
 
 
 def insert_tables(cur, conn):
+    
+    """Function that inserts the desired information from the copies made from the S3 bucket into the new tables with our sketched     structure
+    Queries defined in sql_queries.py file"""
+    
     for query in insert_table_queries:
         cur.execute(query)
         conn.commit()
 
 
 def main():
+    
     config = configparser.ConfigParser()
     config.read('dwh.cfg')
 
