@@ -12,6 +12,7 @@ class LoadFactOperator(BaseOperator):
                  table_name="",
                  sql_query="",
                  autocommit = False,
+                 mode_handle = 'drop&insert',
                  *args, **kwargs):
 
         super(LoadFactOperator, self).__init__(*args, **kwargs)
@@ -19,6 +20,7 @@ class LoadFactOperator(BaseOperator):
         self.redshift_id = redshift_id
         self.autocommit = autocommit
         self.sql_query=sql_query
+        self.mode_handle = mode_handle
         
     def execute(self, context):
     
@@ -26,3 +28,16 @@ class LoadFactOperator(BaseOperator):
 
         postgrs_hook.run("DROP TABLE {} IF EXISTS".format(self.table_name), self.autocommit)
         postgrs_hook.run("INSERT INTO {} {}".format(self.table_name, self.sql_query), self.autocommit)
+
+        if self.mode_handle == 'drop':
+            postgrs_hook.run("DROP TABLE {} IF EXISTS".format(self.table_name), self.autocommit)
+            
+        else if self.mode_handle == 'insert':
+            postgrs_hook.run("INSERT INTO {} {}".format(self.table_name, self.sql_query), self.autocommit)
+            
+        else if self.mode_handle == 'drop&insert':
+            postgrs_hook.run("DROP TABLE {} IF EXISTS".format(self.table_name), self.autocommit)
+            postgrs_hook.run("INSERT INTO {} {}".format(self.table_name, self.sql_query), self.autocommit)
+            
+        else:
+            raise ValueError("mode_handle only accepts 'drop', 'insert' and 'drop&insert' as values")

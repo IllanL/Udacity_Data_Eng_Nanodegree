@@ -20,5 +20,15 @@ class DataQualityOperator(BaseOperator):
         postgrs_hook = PostgresHook("redshift")
         
         for query in self.sql_queries:
-            query_records = postgrs_hook.get_records(query)
-            self.log.info(query_records)
+            check_sql = query['check_sql']
+            expected_result = query['expected_result']
+            query_records = postgrs_hook.get_records(check_sql)
+            
+            if query_records[0][0] != expected_result:
+                raise ValueError("""Data quality check failed.\n
+                                    Query run: '{}'\n
+                                    Expected result: {}\n 
+                                    Obtained result: {}""".format(check_sql, expected_result, query_records[0][0]))
+            
+            else:
+                 self.log.info(query_records)

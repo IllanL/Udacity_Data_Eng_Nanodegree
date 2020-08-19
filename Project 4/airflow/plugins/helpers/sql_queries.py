@@ -41,8 +41,5 @@ class SqlQueries:
         FROM songplays
     """)
     
-    data_quality_checks = list("""SELECT a.name AS name, COUNT(*) AS song_count 
-                                    FROM artists AS a 
-                                    JOIN songs AS b 
-                                    ON a.artist_id=b.artist_id 
-                                    GROUP BY a.name""")
+    data_quality_checks = list([{'check_sql': "SELECT COUNT(*) FROM users WHERE userid is null", 'expected_result': 0},
+                                {'check_sql': "SELECT COUNT(*) FROM songs WHERE songid is null", 'expected_result': 0}])
