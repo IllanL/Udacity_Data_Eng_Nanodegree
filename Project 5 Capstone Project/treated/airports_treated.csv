@@ -1,0 +1,550 @@
+ident;type;name;iso_country;iso_region;municipality;gps_code;iata_code;local_code;longitude;latitude
+57A;seaplane_base;Tokeen Seaplane Base;US;US-AK;Tokeen;57A;TKI;57A;-133.32699585; 55.9370994568
+5Z9;seaplane_base;Lake Brooks Seaplane Base;US;US-AK;Katmai National Park;5Z9;BKF;5Z9;-155.77699279785; 58.554798126221
+89NY;small_airport;Maxson Airfield;US;US-NY;Alexandria Bay;89NY;AXB;89NY;-75.90034; 44.312002
+AGGF;small_airport;Fera/Maringe Airport;SB;SB-IS;Fera Island;AGGF;FRE;;159.576996; -8.1075
+ANZ;small_airport;Angus Downs Airport;AU;AU-NT;Angus Downs Station;;ANZ;;132.2748; -25.0325
+AU-COB;small_airport;Coolibah Airport;AU;AU-NT;Coolibah;;COB;;130.96200561523438; -15.548299789428711
+AU-CRY;small_airport;Carlton Hill Airport;AU;AU-WA;Carlton Hill;;CRY;;128.53399658203125; -15.501899719238281
+AU-SWB;small_airport;Shaw River Airport;AU;AU-WA;Shaw River;;SWB;;119.36199951171875; -21.510299682617188
+AYEL;small_airport;Eliptamin Airport;PG;PG-SAN;Eliptamin;AYEL;EPT;ELP;141.6779; -5.0412
+AYHH;small_airport;Honinabi Airport;PG;PG-WPD;Honinabi;AYHH;HNN;HBI;142.1771; -16.2457
+AYMD;medium_airport;Madang Airport;PG;PG-MPM;Madang;AYMD;MAG;;145.789001465; -5.20707988739
+AYMO;medium_airport;Momote Airport;PG;PG-MRL;Manus Island;AYMO;MAS;;147.423996; -2.06189
+AYPY;large_airport;Port Moresby Jacksons International Airport;PG;PG-NCD;Port Moresby;AYPY;POM;;147.22000122070312; -9.443380355834961
+AYRV;small_airport;May River Airstrip;PG;PG-ESW;May River;AYRV;MRH;MRV;141.785; -4.3615
+AYSQ;small_airport;Sepik Plains Airport;PG;PG-ESW;Sepik Plains;AYSQ;SPV;SPP;143.6734; -3.8821
+BEA;closed;Bereina Airport;PG;PG-CPM;Bereina Mission;;BEA;;146.5083; -8.64
+BINF;small_airport;NorÃ°fjÃ¶rÃ°ur Airport;IS;IS-7;NorÃ°fjÃ¶rÃ°ur;BINF;NOR;;-13.746399879455566; 65.13189697265625
+BITN;small_airport;Thorshofn Airport;IS;IS-6;Thorshofn;BITN;THO;;-15.335599899291992; 66.21849822998047
+BRG;closed;Whitesburg Municipal Airport;US;US-KY;Whitesburg;;BRG;;-82.8742; 37.2219
+CYKD;medium_airport;Aklavik/Freddie Carmichael Airport;CA;CA-NT;Aklavik;CYKD;LAK;;-135.00599; 68.223297
+CYSL;medium_airport;St Leonard Airport;CA;CA-NB;St Leonard;CYSL;YSL;;-67.83470153808594; 47.157501220703125
+CYXE;medium_airport;Saskatoon John G. Diefenbaker International Airport;CA;CA-SK;Saskatoon;CYXE;YXE;;-106.69999694824219; 52.170799255371094
+DBBB;medium_airport;Cadjehoun Airport;BJ;BJ-AQ;Cotonou;DBBB;COO;;2.384350061416626; 6.357230186462402
+DER;small_airport;Derim Airport;PG;PG-MPL;Derim;AYDE;DER;DEM;147.107222222; -6.14472222222
+DLR;small_airport;Dalnerechensk Airport;RU;RU-PRI;Dalnerechensk;UHHD;DLR;;133.7363; 45.8783
+DNAK;medium_airport;Akure Airport;NG;NG-ON;Akure;DNAK;AKR;;5.3010101318359375; 7.246739864349365
+DNKN;large_airport;Mallam Aminu International Airport;NG;NG-KN;Kano;DNKN;KAN;;8.52462; 12.0476
+DNMM;large_airport;Murtala Muhammed International Airport;NG;NG-LA;Lagos;DNMM;LOS;;3.321160078048706; 6.5773701667785645
+DVD;small_airport;Andavadoaka Airport;MG;MG-U;Andavadoaka;;DVD;;43.259573; -22.06608
+EBBR;large_airport;Brussels Airport;BE;BE-BRU;Brussels;EBBR;BRU;;4.48443984985; 50.901401519800004
+EBCI;large_airport;Brussels South Charleroi Airport;BE;BE-WHT;Brussels;EBCI;CRL;;4.45382; 50.459202
+EDA;seaplane_base;Edna Bay Seaplane Base;US;US-AK;Edna Bay;;EDA;;-133.661012; 55.949653
+EDDH;large_airport;Hamburg Airport;DE;DE-HH;Hamburg;EDDH;HAM;;9.9882297515869; 53.630401611328
+EDDS;large_airport;Stuttgart Airport;DE;DE-BW;Stuttgart;EDDS;STR;;9.22196006775; 48.689899444599995
+EDLV;medium_airport;Weeze Airport;DE;DE-NW;Weeze;EDLV;NRN;;6.14216995239; 51.6024017334
+EFHK;large_airport;Helsinki Vantaa Airport;FI;FI-ES;Helsinki;EFHK;HEL;;24.963300704956; 60.317199707031
+EFPO;medium_airport;Pori Airport;FI;FI-LS;Pori;EFPO;POR;;21.799999237061; 61.461700439453
+EGBB;large_airport;Birmingham International Airport;GB;GB-ENG;Birmingham;EGBB;BHX;;-1.74802994728; 52.453899383499994
+EGBJ;medium_airport;Gloucestershire Airport;GB;GB-ENG;Staverton;EGBJ;GLO;;-2.167220115661621; 51.89419937133789
+EGEC;medium_airport;Campbeltown Airport;GB;GB-SCT;Campbeltown;EGEC;CAL;;-5.686389923095703; 55.437198638916016
+EGEL;small_airport;Coll Airport;GB;GB-SCT;Coll Island;EGEL;COL;;-6.61778020859; 56.6018981934
+EGHJ;small_airport;Bembridge Airport;GB;GB-ENG;Bembridge;EGHJ;BBP;;-1.10943996906; 50.6781005859
+EGJJ;medium_airport;Jersey Airport;JE;JE-U-A;Saint Helier;EGJJ;JER;;-2.195509910583496; 49.20790100097656
+EGKK;large_airport;London Gatwick Airport;GB;GB-ENG;London;EGKK;LGW;;-0.190278; 51.148102
+EGLF;medium_airport;Farnborough Airport;GB;GB-ENG;Farnborough;EGLF;FAB;;-0.776332974434; 51.2757987976
+EGLL;large_airport;London Heathrow Airport;GB;GB-ENG;London;EGLL;LHR;;-0.461941; 51.4706
+EGPL;medium_airport;Benbecula Airport;GB;GB-SCT;Balivanich;EGPL;BEB;;-7.3627800941467285; 57.48109817504883
+EGSS;large_airport;London Stansted Airport;GB;GB-ENG;London;EGSS;STN;;0.234999999404; 51.8849983215
+EHAM;large_airport;Amsterdam Airport Schiphol;NL;NL-NH;Amsterdam;EHAM;AMS;;4.76389; 52.308601
+EHTW;medium_airport;Twente Airport;NL;NL-OV;Enschede;EHTW;ENS;;6.889167; 52.275833
+EIDW;large_airport;Dublin Airport;IE;IE-D;Dublin;EIDW;DUB;;-6.27007; 53.421299
+EINN;large_airport;Shannon Airport;IE;IE-CE;Shannon;EINN;SNN;;-8.92482; 52.702
+EIWF;medium_airport;Waterford Airport;IE;IE-WD;Waterford;EIWF;WAT;;-7.0869598388671875; 52.187198638916016
+EKVJ;medium_airport;Stauning Airport;DK;DK-82;Skjern / RingkÃ¸bing;EKVJ;STA;;8.353910446166992; 55.9901008605957
+ENBO;large_airport;BodÃ¸ Airport;NO;NO-18;BodÃ¸;ENBO;BOO;;14.365300178527832; 67.26920318603516
+ENEV;medium_airport;Harstad/Narvik Airport, Evenes;NO;NO-18;Evenes;ENEV;EVE;;16.678100585938; 68.491302490234
+ETAD;medium_airport;Spangdahlem Air Base;DE;DE-RP;Trier;ETAD;SPM;;6.69250011444; 49.9726982117
+FAL;closed;Falcon State Airport;US;US-TX;Roma;;FAL;;-99.13985; 26.5856
+FALE;large_airport;King Shaka International Airport;ZA;ZA-NL;Durban;FALE;DUR;;31.1197222222; -29.6144444444
+FANG;small_airport;Ngala Airport;ZA;ZA-NP;Ngala;FANG;NGL;;31.326; -24.389
+FAPS;medium_airport;Potchefstroom Airport;ZA;ZA-NW;Potchefstroom;FAPS;PCF;;27.0818996429; -26.670999527
+FHAW;medium_airport;RAF Ascension Island;SH;SH-AC;Ascension Island;FHAW;ASI;;-14.3937; -7.9696
+FLSW;small_airport;Solwesi Airport;ZM;ZM-06;Solwesi;FLSW;SLI;;26.365100860595703; -12.173700332641602
+FMNE;small_airport;Ambilobe Airport;MG;MG-D;;FMNE;AMB;;48.987998962402344; -13.188400268554688
+FMNG;small_airport;Port BergÃ© Airport;MG;MG-M;Port BergÃ©;FMNG;WPB;;47.623587; -15.584286
+FOGF;small_airport;Fougamou Airport;GA;GA-4;Fougamou;FOGF;FOU;;10.616999626159668; -1.2829999923706055
+FSSF;small_airport;FrÃ©gate Island Airport;SC;SC-15;FrÃ©gate Island;FSSF;FRK;;55.950001; -4.583
+FWMG;medium_airport;Mangochi Airport;MW;MW-MG;Mangochi;FWMG;MAI;;35.266998291015625; -14.482999801635742
+FYHI;small_airport;Halali Airport;;NA-OT;Halali;FYHI;HAL;;16.4585; -19.0285
+FZAJ;small_airport;Boma Airport;CD;CD-BC;Boma;FZAJ;BOA;;13.064000129699707; -5.854000091552734
+FZVR;small_airport;Basongo Airport;CD;CD-KW;Basongo;FZVR;BAN;;20.414891; -4.315802
+GCLA;large_airport;La Palma Airport;ES;ES-CN;Sta Cruz de la Palma, La Palma Island;GCLA;SPC;;-17.7556; 28.626499
+GLNA;small_airport;Nimba Airport;LR;LR-NI;Nimba;GLNA;NIA;;-8.600000381469727; 7.5
+GMAD;medium_airport;Al Massira Airport;MA;MA-AGD;Agadir;GMAD;AGA;;-9.413069725036621; 30.325000762939453
+GSZ;small_airport;Granite Mountain Air Station;US;US-AK;Granite Mountain;PAGZ;GMT;GSZ;-161.2810059; 65.40209961
+GUMA;small_airport;Macenta Airport;GN;GN-N;Macenta;GUMA;MCA;;-9.525071; 8.481857
+HABE;small_airport;Beica Airport;ET;ET-BE;Beica;HABE;BEI;;34.52190017700195; 9.38638973236084
+HANG;small_airport;Negele Airport;ET;ET-OR;Negele Borana;HANG;EGL;;39.7023; 5.2897
+HAWR;small_airport;Warder Airport;ET;ET-SO;Warder;HAWR;WRA;;45.3334; 6.9724
+HEBL;medium_airport;Abu Simbel Airport;EG;EG-ASN;Abu Simbel;HEBL;ABS;;31.611700058; 22.375999450699997
+HIL;small_airport;Shilavo Airport;ET;ET-SO;Shilavo;HASL;HIL;;44.766700744599994; 6.08333015442
+HKJK;large_airport;Jomo Kenyatta International Airport;KE;KE-110;Nairobi;HKJK;NBO;;36.9277992249; -1.31923997402
+HKKR;small_airport;Kericho Airport;KE;KE-700;Kericho;HKKR;KEY;;35.242093; -0.3899
+HKLU;medium_airport;Manda Airstrip;KE;KE-300;Lamu;HKLU;LAU;;40.91310119628906; -2.252419948577881
+HKMB;small_airport;Marsabit Airport;KE;KE-400;Marsabit;HKMB;RBT;;37.999996; 2.344254
+HKNW;medium_airport;Nairobi Wilson Airport;KE;KE-110;Nairobi;HKNW;WIL;;36.81480026245117; -1.321720004081726
+HSAT;small_airport;Atbara Airport;SD;SD-04;Atbara;HSAT;ATB;;34.0570182800293; 17.710344314575195
+HTM;small_airport;Khatgal Airport;MN;MN-041;Hatgal;ZMHG;HTM;;100.139532; 50.435988
+K5T9;small_airport;Maverick County Memorial International Airport;US;US-TX;Eagle Pass;5T9;EGP;5T9;-100.512001; 28.85720062
+K74S;small_airport;Anacortes Airport;US;US-WA;Anacortes;;OTS;74S;-122.662003; 48.499
+KABE;medium_airport;Lehigh Valley International Airport;US;US-PA;Allentown;KABE;ABE;ABE;-75.44080352783203; 40.652099609375
+KABQ;large_airport;Albuquerque International Sunport;US;US-NM;Albuquerque;KABQ;ABQ;ABQ;-106.609001; 35.040199
+KACY;medium_airport;Atlantic City International Airport;US;US-NJ;Atlantic City;KACY;ACY;ACY;-74.57720184326172; 39.45759963989258
+KADH;small_airport;Ada Regional Airport;US;US-OK;Ada;KADH;ADT;ADH;-96.671303; 34.804298
+KADS;small_airport;Addison Airport;US;US-TX;Dallas;KADS;ADS;ADS;-96.8364028931; 32.9686012268
+KADW;large_airport;Joint Base Andrews;US;US-MD;Camp Springs;KADW;ADW;ADW;-76.866997; 38.810799
+KAFW;large_airport;Fort Worth Alliance Airport;US;US-TX;Fort Worth;KAFW;AFW;AFW;-97.31880187990001; 32.9875984192
+KAGS;large_airport;Augusta Regional At Bush Field;US;US-GA;Augusta;KAGS;AGS;AGS;-81.9645004272461; 33.36989974975586
+KALB;medium_airport;Albany International Airport;US;US-NY;Albany;KALB;ALB;ALB;-73.80169677734375; 42.74829864501953
+KAND;medium_airport;Anderson Regional Airport;US;US-SC;Anderson;KAND;AND;AND;-82.70939636230001; 34.4945983887
+KANP;small_airport;Lee Airport;US;US-MD;Annapolis;KANP;ANP;ANP;-76.568398; 38.942902
+KAPA;medium_airport;Centennial Airport;US;US-CO;Denver;KAPA;APA;APA;-104.848999; 39.57009888
+KAPF;medium_airport;Naples Municipal Airport;US;US-FL;Naples;KAPF;APF;APF;-81.7752990723; 26.1525993347
+KARB;small_airport;Ann Arbor Municipal Airport;US;US-MI;Ann Arbor;KARB;ARB;ARB;-83.74559783939999; 42.2229995728
+KASE;medium_airport;Aspen-Pitkin Co/Sardy Field;US;US-CO;Aspen;KASE;ASE;ASE;-106.8690033; 39.22320175
+KAST;medium_airport;Astoria Regional Airport;US;US-OR;Astoria;KAST;AST;AST;-123.878997803; 46.158000946
+KATL;large_airport;Hartsfield Jackson Atlanta International Airport;US;US-GA;Atlanta;KATL;ATL;ATL;-84.428101; 33.6367
+KATW;small_airport;Appleton International Airport;US;US-WI;Appleton;KATW;ATW;ATW;-88.5190963745; 44.258098602299995
+KAUS;large_airport;Austin Bergstrom International Airport;US;US-TX;Austin;KAUS;AUS;AUS;-97.6698989868164; 30.194499969482422
+KBBP;small_airport;Marlboro County Jetport H.E. Avent Field;US;US-SC;Bennettsville;KBBP;BTN;BBP;-79.73439789; 34.62170029
+KBDL;large_airport;Bradley International Airport;US;US-CT;Hartford;KBDL;BDL;BDL;-72.68319702149999; 41.9388999939
+KBED;medium_airport;Laurence G Hanscom Field;US;US-MA;Bedford;KBED;BED;BED;-71.28900146; 42.47000122
+KBFL;medium_airport;Meadows Field;US;US-CA;Bakersfield;KBFL;BFL;BFL;-119.0569992; 35.43360138
+KBGM;medium_airport;Greater Binghamton/Edwin A Link field;US;US-NY;Binghamton;KBGM;BGM;BGM;-75.97979736; 42.20869827
+KBHM;large_airport;Birmingham-Shuttlesworth International Airport;US;US-AL;Birmingham;KBHM;BHM;BHM;-86.75350189; 33.56290054
+KBIL;large_airport;Billings Logan International Airport;US;US-MT;Billings;KBIL;BIL;BIL;-108.54299926757812; 45.807701110839844
+KBLF;medium_airport;Mercer County Airport;US;US-WV;Bluefield;KBLF;BLF;BLF;-81.20770263671875; 37.295799255371094
+KBLI;medium_airport;Bellingham International Airport;US;US-WA;Bellingham;KBLI;BLI;BLI;-122.53800201416016; 48.79280090332031
+KBOI;large_airport;Boise Air Terminal/Gowen Field;US;US-ID;Boise;KBOI;BOI;BOI;-116.223; 43.5644
+KBOS;large_airport;General Edward Lawrence Logan International Airport;US;US-MA;Boston;KBOS;BOS;BOS;-71.00520325; 42.36429977
+KBRO;medium_airport;Brownsville South Padre Island International Airport;US;US-TX;Brownsville;KBRO;BRO;BRO;-97.4259033203125; 25.90679931640625
+KBTM;medium_airport;Bert Mooney Airport;US;US-MT;Butte;KBTM;BTM;BTM;-112.49700164794922; 45.95479965209961
+KBUF;large_airport;Buffalo Niagara International Airport;US;US-NY;Buffalo;KBUF;BUF;BUF;-78.73220062; 42.94049835
+KBUR;medium_airport;Bob Hope Airport;US;US-CA;Burbank;KBUR;BUR;BUR;-118.35900115966797; 34.20069885253906
+KBWW;small_airport;Bowman Regional Airport;US;US-ND;Bowman;KBWW;BWM;BWW;-103.30075; 46.1655193
+KBZN;medium_airport;Gallatin Field;US;US-MT;Bozeman;KBZN;BZN;BZN;-111.1529999; 45.77750015
+KC80;small_airport;New Coalinga Municipal Airport;US;US-CA;Coalinga;;CLG;C80;-120.29399871826172; 36.16310119628906
+KCAE;large_airport;Columbia Metropolitan Airport;US;US-SC;Columbia;KCAE;CAE;CAE;-81.11949920654297; 33.93880081176758
+KCAK;medium_airport;Akron Canton Regional Airport;US;US-OH;Akron;KCAK;CAK;CAK;-81.44219970703125; 40.916099548339844
+KCAO;small_airport;Clayton Municipal Airpark;US;US-NM;Clayton;KCAO;CAO;CAO;-103.166999817; 36.4462013245
+KCAR;medium_airport;Caribou Municipal Airport;US;US-ME;Caribou;KCAR;CAR;CAR;-68.0178985596; 46.871498107899995
+KCHA;large_airport;Lovell Field;US;US-TN;Chattanooga;KCHA;CHA;CHA;-85.20379638671875; 35.035301208496094
+KCHO;medium_airport;Charlottesville Albemarle Airport;US;US-VA;Charlottesville;KCHO;CHO;CHO;-78.4529037475586; 38.13859939575195
+KCHS;large_airport;Charleston Air Force Base-International Airport;US;US-SC;Charleston;KCHS;CHS;CHS;-80.04049683; 32.89860153
+KCID;large_airport;The Eastern Iowa Airport;US;US-IA;Cedar Rapids;KCID;CID;CID;-91.71080017089844; 41.884700775146484
+KCIN;small_airport;Arthur N Neu Airport;US;US-IA;Carroll;KCIN;CIN;CIN;-94.78900146480001; 42.0461997986
+KCLE;large_airport;Cleveland Hopkins International Airport;US;US-OH;Cleveland;KCLE;CLE;CLE;-81.8498001099; 41.4117012024
+KCLK;small_airport;Clinton Regional Airport;US;US-OK;Clinton;KCLK;CLK;CLK;-98.93270111; 35.53829956
+KCLM;medium_airport;William R Fairchild International Airport;US;US-WA;Port Angeles;KCLM;CLM;CLM;-123.5; 48.120201110839844
+KCLS;small_airport;Chehalis Centralia Airport;US;US-WA;Chehalis;KCLS;CLS;CLS;-122.983001709; 46.676998138399995
+KCLT;large_airport;Charlotte Douglas International Airport;US;US-NC;Charlotte;KCLT;CLT;CLT;-80.94309997558594; 35.2140007019043
+KCNH;small_airport;Claremont Municipal Airport;US;US-NH;Claremont;KCNH;CNH;CNH;-72.36869812009999; 43.3703994751
+KCOS;medium_airport;City of Colorado Springs Municipal Airport;US;US-CO;Colorado Springs;KCOS;COS;COS;-104.700996; 38.805801
+KCRP;large_airport;Corpus Christi International Airport;US;US-TX;Corpus Christi;KCRP;CRP;CRP;-97.5011978149414; 27.77039909362793
+KCTB;medium_airport;Cut Bank International Airport;US;US-MT;Cut Bank;KCTB;CTB;CTB;-112.375999451; 48.6083984375
+KCXO;medium_airport;Conroe-North Houston Regional Airport;US;US-TX;Houston;KCXO;CXO;CXO;-95.414497; 30.351801
+KCXY;small_airport;Capital City Airport;US;US-PA;Harrisburg;KCXY;HAR;CXY;-76.85150146480001; 40.2170982361
+KDAA;medium_airport;Davison Army Air Field;US;US-VA;Fort Belvoir;KDAA;DAA;DAA;-77.1809997559; 38.715000152600005
+KDAB;large_airport;Daytona Beach International Airport;US;US-FL;Daytona Beach;KDAB;DAB;DAB;-81.058098; 29.179899
+KDAL;large_airport;Dallas Love Field;US;US-TX;Dallas;KDAL;DAL;DAL;-96.851799; 32.847099
+KDAY;large_airport;James M Cox Dayton International Airport;US;US-OH;Dayton;KDAY;DAY;DAY;-84.21939849853516; 39.902400970458984
+KDEC;medium_airport;Decatur Airport;US;US-IL;Decatur;KDEC;DEC;DEC;-88.8656997680664; 39.834598541259766
+KDEN;large_airport;Denver International Airport;US;US-CO;Denver;KDEN;DEN;DEN;-104.672996521; 39.861698150635
+KDET;medium_airport;Coleman A. Young Municipal Airport;US;US-MI;Detroit;KDET;DET;DET;-83.00990295; 42.40919876
+KDNS;small_airport;Denison Municipal Airport;US;US-IA;Denison;KDNS;DNS;DNS;-95.38069916; 41.9864006
+KDOV;large_airport;Dover Air Force Base;US;US-DE;Dover;KDOV;DOV;DOV;-75.46600342; 39.12950134
+KDPA;medium_airport;Dupage Airport;US;US-IL;Chicago/West Chicago;KDPA;DPA;DPA;-88.24859619; 41.90779877
+KDRO;small_airport;Durango La Plata County Airport;US;US-CO;Durango;KDRO;DRO;DRO;-107.753997803; 37.1515007019
+KDSM;large_airport;Des Moines International Airport;US;US-IA;Des Moines;KDSM;DSM;DSM;-93.66310119628906; 41.534000396728516
+KDVL;small_airport;Devils Lake Regional Airport;US;US-ND;Devils Lake;KDVL;DVL;DVL;-98.90879822; 48.11420059
+KE-6112;small_airport;Angama Airport;KE;KE-700;Maasai Mara;HKOM;ANA;;34.955513; -1.27156
+KE24;small_airport;Whiteriver Airport;US;US-AZ;Whiteriver;E24;WTR;E24;-109.9869995; 33.8125
+KEGE;medium_airport;Eagle County Regional Airport;US;US-CO;Eagle;KEGE;EGE;EGE;-106.9179993; 39.64260101
+KELM;medium_airport;Elmira Corning Regional Airport;US;US-NY;Elmira/Corning;KELM;ELM;ELM;-76.8916015625; 42.1599006652832
+KELP;medium_airport;El Paso International Airport;US;US-TX;El Paso;KELP;ELP;ELP;-106.3779984; 31.80719948
+KELY;medium_airport;Ely Airport Yelland Field;US;US-NV;Ely;KELY;ELY;ELY;-114.8420029; 39.29970169
+KERI;large_airport;Erie International Tom Ridge Field;US;US-PA;Erie;KERI;ERI;ERI;-80.1738667488; 42.0831270134
+KEST;small_airport;Estherville Municipal Airport;US;US-IA;Estherville;KEST;EST;EST;-94.74639893; 43.40739822
+KFAR;medium_airport;Hector International Airport;US;US-ND;Fargo;KFAR;FAR;FAR;-96.81580352783203; 46.92070007324219
+KFAY;medium_airport;Fayetteville Regional Grannis Field;US;US-NC;Fayetteville;KFAY;FAY;FAY;-78.88030242919922; 34.9911994934082
+KFLX;small_airport;Fallon Municipal Airport;US;US-NV;Fallon;KFLX;FLX;FLX;-118.749000549; 39.4990997314
+KFMY;medium_airport;Page Field;US;US-FL;Fort Myers;KFMY;FMY;FMY;-81.86329650879999; 26.58659935
+KFOK;small_airport;Francis S Gabreski Airport;US;US-NY;Westhampton Beach;KFOK;FOK;FOK;-72.6317977905; 40.8437004089
+KFPR;medium_airport;St Lucie County International Airport;US;US-FL;Fort Pierce;KFPR;FPR;FPR;-80.36830139; 27.49510002
+KFRG;medium_airport;Republic Airport;US;US-NY;Farmingdale;KFRG;FRG;FRG;-73.4133987427; 40.7288017273
+KFRI;medium_airport;Marshall Army Air Field;US;US-KS;Fort Riley(Junction City);KFRI;FRI;FRI;-96.76450348; 39.05530167
+KFTK;medium_airport;Godman Army Air Field;US;US-KY;Fort Knox;KFTK;FTK;FTK;-85.9720993042; 37.907100677500004
+KFWA;large_airport;Fort Wayne International Airport;US;US-IN;Fort Wayne;KFWA;FWA;FWA;-85.19509888; 40.97850037
+KGGW;medium_airport;Wokal Field Glasgow International Airport;US;US-MT;Glasgow;KGGW;GGW;GGW;-106.614998; 48.212502
+KGNV;medium_airport;Gainesville Regional Airport;US;US-FL;Gainesville;KGNV;GNV;GNV;-82.2717971802; 29.6900997162
+KGPI;medium_airport;Glacier Park International Airport;US;US-MT;Kalispell;KGPI;FCA;GPI;-114.25599670410156; 48.31050109863281
+KGPT;large_airport;Gulfport Biloxi International Airport;US;US-MS;Gulfport;KGPT;GPT;GPT;-89.07009887695312; 30.40730094909668
+KGRB;large_airport;Austin Straubel International Airport;US;US-WI;Green Bay;KGRB;GRB;GRB;-88.12960052490234; 44.48509979248047
+KGRE;small_airport;Greenville Airport;US;US-IL;Greenville;KGRE;GRE;GRE;-89.37840271; 38.8362007141
+KGRF;medium_airport;Gray Army Air Field;US;US-WA;Fort Lewis/Tacoma;KGRF;GRF;GRF;-122.5810013; 47.07920074
+KGRR;medium_airport;Gerald R. Ford International Airport;US;US-MI;Grand Rapids;KGRR;GRR;GRR;-85.52279663; 42.88079834
+KGSO;large_airport;Piedmont Triad International Airport;US;US-NC;Greensboro;KGSO;GSO;GSO;-79.93730163574219; 36.097801208496094
+KGSP;large_airport;Greenville Spartanburg International Airport;US;US-SC;Greenville;KGSP;GSP;GSP;-82.2189025879; 34.8956985474
+KGTF;medium_airport;Great Falls International Airport;US;US-MT;Great Falls;KGTF;GTF;GTF;-111.3710022; 47.48199844
+KGTR;medium_airport;Golden Triangle Regional Airport;US;US-MS;Columbus/W Point/Starkville;KGTR;GTR;GTR;-88.5914001465; 33.450298309299995
+KHIO;medium_airport;Portland Hillsboro Airport;US;US-OR;Portland;KHIO;HIO;HIO;-122.949997; 45.540401
+KHLG;medium_airport;Wheeling Ohio County Airport;US;US-WV;Wheeling;KHLG;HLG;HLG;-80.6463012695; 40.1749992371
+KHOB;medium_airport;Lea County Regional Airport;US;US-NM;Hobbs;KHOB;HOB;HOB;-103.2170029; 32.6875
+KHON;medium_airport;Huron Regional Airport;US;US-SD;Huron;KHON;HON;HON;-98.22850036621094; 44.38520050048828
+KHOP;medium_airport;Campbell AAF (Fort Campbell) Air Field;US;US-KY;Fort Campbell/Hopkinsville;KHOP;HOP;HOP;-87.49620056150002; 36.668598175
+KHOU;large_airport;William P Hobby Airport;US;US-TX;Houston;KHOU;HOU;HOU;-95.27890015; 29.64539909
+KHPN;medium_airport;Westchester County Airport;US;US-NY;White Plains;KHPN;HPN;HPN;-73.70760345458984; 41.06700134277344
+KHRL;medium_airport;Valley International Airport;US;US-TX;Harlingen;KHRL;HRL;HRL;-97.65440368652344; 26.228500366210938
+KHSB;small_airport;Harrisburg-Raleigh Airport;US;US-IL;Harrisburg;KHSB;HSB;HSB;-88.5503006; 37.81129837
+KHSV;large_airport;Huntsville International Carl T Jones Field;US;US-AL;Huntsville;KHSV;HSV;HSV;-86.775100708008; 34.637199401855
+KHUM;small_airport;Houma Terrebonne Airport;US;US-LA;Houma;KHUM;HUM;HUM;-90.6604003906; 29.5664997101
+KHVR;medium_airport;Havre City County Airport;US;US-MT;Havre;KHVR;HVR;HVR;-109.762001; 48.54299927
+KIAG;medium_airport;Niagara Falls International Airport;US;US-NY;Niagara Falls;KIAG;IAG;IAG;-78.94619750976562; 43.1072998046875
+KICT;large_airport;Wichita Eisenhower National Airport;US;US-KS;Wichita;KICT;ICT;ICT;-97.433098; 37.649899
+KIDA;medium_airport;Idaho Falls Regional Airport;US;US-ID;Idaho Falls;KIDA;IDA;IDA;-112.070999; 43.514599
+KIND;large_airport;Indianapolis International Airport;US;US-IN;Indianapolis;KIND;IND;IND;-86.294403; 39.7173
+KINL;medium_airport;Falls International Airport;US;US-MN;International Falls;KINL;INL;INL;-93.4030990600586; 48.566200256347656
+KISP;medium_airport;Long Island Mac Arthur Airport;US;US-NY;Islip;KISP;ISP;ISP;-73.10019684; 40.79520035
+KJAC;medium_airport;Jackson Hole Airport;US;US-WY;Jackson;KJAC;JAC;JAC;-110.73799896240234; 43.6072998046875
+KJAN;large_airport;Jackson-Medgar Wiley Evers International Airport;US;US-MS;Jackson;KJAN;JAN;JAN;-90.0758972168; 32.3111991882
+KL06;small_airport;Furnace Creek Airport;US;US-CA;Death Valley National Park;;DTH;L06;-116.880997; 36.463799
+KLAN;medium_airport;Capital City Airport;US;US-MI;Lansing;KLAN;LAN;LAN;-84.58740234375; 42.77870178222656
+KLAR;medium_airport;Laramie Regional Airport;US;US-WY;Laramie;KLAR;LAR;LAR;-105.67500305175781; 41.31209945678711
+KLAS;large_airport;McCarran International Airport;US;US-NV;Las Vegas;KLAS;LAS;LAS;-115.1520004; 36.08010101
+KLEB;medium_airport;Lebanon Municipal Airport;US;US-NH;Lebanon;KLEB;LEB;LEB;-72.30419921880001; 43.626098632799994
+KLEE;medium_airport;Leesburg International Airport;US;US-FL;Leesburg;KLEE;LEE;LEE;-81.80870056; 28.82309914
+KLEW;small_airport;Auburn Lewiston Municipal Airport;US;US-ME;Auburn/Lewiston;KLEW;LEW;LEW;-70.2835006714; 44.048500061
+KLEX;large_airport;Blue Grass Airport;US;US-KY;Lexington;KLEX;LEX;LEX;-84.60590362548828; 38.0364990234375
+KLGU;medium_airport;Logan-Cache Airport;US;US-UT;Logan;KLGU;LGU;LGU;-111.851997375; 41.7911987305
+KLIT;large_airport;Bill & Hillary Clinton National Airport/Adams Field;US;US-AR;Little Rock;KLIT;LIT;LIT;-92.2242965698; 34.729400634799994
+KLLJ;small_airport;Challis Airport;US;US-ID;Challis;KLLJ;CHL;LLJ;-114.218002; 44.522999
+KLND;medium_airport;Hunt Field;US;US-WY;Lander;KLND;LND;LND;-108.730003357; 42.8152008057
+KLOU;medium_airport;Bowman Field;US;US-KY;Louisville;KLOU;LOU;LOU;-85.6636962891; 38.2280006409
+KLSE;medium_airport;La Crosse Municipal Airport;US;US-WI;La Crosse;KLSE;LSE;LSE;-91.256699; 43.879002
+KLUK;medium_airport;Cincinnati Municipal Airport Lunken Field;US;US-OH;Cincinnati;KLUK;LUK;LUK;-84.41860199; 39.10329819
+KLWT;medium_airport;Lewistown Municipal Airport;US;US-MT;Lewistown;KLWT;LWT;LWT;-109.46700286865234; 47.04930114746094
+KMAF;medium_airport;Midland International Airport;US;US-TX;Midland;KMAF;MAF;MAF;-102.2020034790039; 31.9424991607666
+KMDT;medium_airport;Harrisburg International Airport;US;US-PA;Harrisburg;KMDT;MDT;MDT;-76.7633972168; 40.1935005188
+KMEM;large_airport;Memphis International Airport;US;US-TN;Memphis;KMEM;MEM;MEM;-89.97669982910156; 35.04240036010742
+KMGC;small_airport;Michigan City Municipal Airport;US;US-IN;Michigan City;KMGC;MGC;MGC;-86.8211975098; 41.703300476100004
+KMGM;large_airport;Montgomery Regional (Dannelly Field) Airport;US;US-AL;Montgomery;KMGM;MGM;MGM;-86.39399719; 32.30059814
+KMHT;medium_airport;Manchester-Boston Regional Airport;US;US-NH;Manchester;KMHT;MHT;MHT;-71.435699; 42.932598
+KMIA;large_airport;Miami International Airport;US;US-FL;Miami;KMIA;MIA;MIA;-80.29060363769531; 25.79319953918457
+KMKG;small_airport;Muskegon County Airport;US;US-MI;Muskegon;KMKG;MKG;MKG;-86.23819733; 43.16949844
+KMLB;medium_airport;Melbourne International Airport;US;US-FL;Melbourne;KMLB;MLB;MLB;-80.64530181884766; 28.102800369262695
+KMLI;large_airport;Quad City International Airport;US;US-IL;Moline;KMLI;MLI;MLI;-90.50749969482422; 41.44850158691406
+KMLU;large_airport;Monroe Regional Airport;US;US-LA;Monroe;KMLU;MLU;MLU;-92.0376968383789; 32.51089859008789
+KMMU;medium_airport;Morristown Municipal Airport;US;US-NJ;Morristown;KMMU;MMU;MMU;-74.41490173339844; 40.799400329589844
+KMOB;large_airport;Mobile Regional Airport;US;US-AL;Mobile;KMOB;MOB;MOB;-88.242797851562; 30.691200256348
+KMRC;small_airport;Maury County Airport;US;US-TN;Columbia/Mount Pleasant;KMRC;MRC;MRC;-87.17890167239999; 35.5541000366
+KMRY;medium_airport;Monterey Peninsula Airport;US;US-CA;Monterey;KMRY;MRY;MRY;-121.84300231933594; 36.58700180053711
+KMSN;large_airport;Dane County Regional Truax Field;US;US-WI;Madison;KMSN;MSN;MSN;-89.3375015258789; 43.13990020751953
+KMSP;large_airport;Minneapolis-St Paul International/Wold-Chamberlain Airport;US;US-MN;Minneapolis;KMSP;MSP;MSP;-93.221802; 44.882
+KMTH;medium_airport;The Florida Keys Marathon Airport;US;US-FL;Marathon;KMTH;MTH;MTH;-81.051399; 24.726101
+KMWH;medium_airport;Grant County International Airport;US;US-WA;Moses Lake;KMWH;MWH;MWH;-119.3199997; 47.20769882
+KMYR;medium_airport;Myrtle Beach International Airport;US;US-SC;Myrtle Beach;KMYR;MYR;MYR;-78.9282989502; 33.6796989441
+KNEW;medium_airport;Lakefront Airport;US;US-LA;New Orleans;KNEW;NEW;NEW;-90.028297424316; 30.042400360107
+KNYL;medium_airport;Yuma MCAS/Yuma International Airport;US;US-AZ;Yuma;KNYL;YUM;NYL;-114.6060028; 32.65660095
+KOAK;large_airport;Metropolitan Oakland International Airport;US;US-CA;Oakland;KOAK;OAK;OAK;-122.221001; 37.721298
+KOGD;medium_airport;Ogden Hinckley Airport;US;US-UT;Ogden;KOGD;OGD;OGD;-112.0120010376; 41.195899963379
+KOGS;small_airport;Ogdensburg International Airport;US;US-NY;Ogdensburg;KOGS;OGS;OGS;-75.46549987790002; 44.6819000244
+KOKC;large_airport;Will Rogers World Airport;US;US-OK;Oklahoma City;KOKC;OKC;OKC;-97.60070037841797; 35.39310073852539
+KOLM;medium_airport;Olympia Regional Airport;US;US-WA;Olympia;KOLM;OLM;OLM;-122.9029999; 46.9693985
+KOMA;large_airport;Eppley Airfield;US;US-NE;Omaha;KOMA;OMA;OMA;-95.894096; 41.3032
+KONT;large_airport;Ontario International Airport;US;US-CA;Ontario;KONT;ONT;ONT;-117.60099792480469; 34.055999755859375
+KOPF;medium_airport;Opa-locka Executive Airport;US;US-FL;Miami;KOPF;OPF;OPF;-80.278397; 25.907
+KORL;small_airport;Orlando Executive Airport;US;US-FL;Orlando;KORL;ORL;ORL;-81.332901; 28.5455
+KOTM;medium_airport;Ottumwa Regional Airport;US;US-IA;Ottumwa;KOTM;OTM;OTM;-92.44789886; 41.10660172
+KPGR;small_airport;Kirk Field;US;US-AR;Paragould;KPGR;PGR;PGR;-90.50779724; 36.06290054
+KPHF;large_airport;Newport News Williamsburg International Airport;US;US-VA;Newport News;KPHF;PHF;PHF;-76.49299622; 37.13190079
+KPHN;small_airport;St Clair County International Airport;US;US-MI;Port Huron;KPHN;PHN;PHN;-82.52890015; 42.9109993
+KPIA;large_airport;General Wayne A. Downing Peoria International Airport;US;US-IL;Peoria;KPIA;PIA;PIA;-89.6932983398; 40.664199829100006
+KPIE;medium_airport;St Petersburg Clearwater International Airport;US;US-FL;St Petersburg-Clearwater;KPIE;PIE;PIE;-82.68740082; 27.91020012
+KPIR;medium_airport;Pierre Regional Airport;US;US-SD;Pierre;KPIR;PIR;PIR;-100.2860031; 44.38270187
+KPIT;large_airport;Pittsburgh International Airport;US;US-PA;Pittsburgh;KPIT;PIT;PIT;-80.23290253; 40.49150085
+KPLB;closed;Clinton County Airport;US;US-NY;Plattsburgh;KPLB;PLB;PLB;-73.52449798583984; 44.6875
+KPOE;medium_airport;Polk Army Air Field;US;US-LA;Fort Polk;KPOE;POE;POE;-93.1917038; 31.0447998
+KPRO;small_airport;Perry Municipal Airport;US;US-IA;Perry;KPRO;PRO;PRO;-94.15989685; 41.82799911
+KPSC;medium_airport;Tri Cities Airport;US;US-WA;Pasco;KPSC;PSC;PSC;-119.11900329589844; 46.26470184326172
+KPSM;medium_airport;Portsmouth International at Pease Airport;US;US-NH;Portsmouth;KPSM;PSM;PSM;-70.8233032227; 43.0778999329
+KPSP;medium_airport;Palm Springs International Airport;US;US-CA;Palm Springs;KPSP;PSP;PSP;-116.50700378417969; 33.8297004699707
+KPTK;medium_airport;Oakland County International Airport;US;US-MI;Pontiac;KPTK;PTK;PTK;-83.420097351074; 42.665500640869
+KPVD;medium_airport;Theodore Francis Green State Airport;US;US-RI;Providence;KPVD;PVD;PVD;-71.42040252685547; 41.732601165771484
+KRDM;medium_airport;Roberts Field;US;US-OR;Redmond;KRDM;RDM;RDM;-121.1500015; 44.2541008
+KRDU;large_airport;Raleigh Durham International Airport;US;US-NC;Raleigh/Durham;KRDU;RDU;RDU;-78.7874984741211; 35.877601623535156
+KRFD;large_airport;Chicago Rockford International Airport;US;US-IL;Chicago/Rockford;KRFD;RFD;RFD;-89.09719848632812; 42.19540023803711
+KRIV;medium_airport;March ARB Airport;US;US-CA;Riverside;KRIV;RIV;RIV;-117.259003; 33.880699
+KRME;medium_airport;Griffiss International Airport;US;US-NY;Rome;KRME;RME;RME;-75.40699768; 43.23379898
+KRNO;large_airport;Reno Tahoe International Airport;US;US-NV;Reno;KRNO;RNO;RNO;-119.76799774169922; 39.49909973144531
+KROC;large_airport;Greater Rochester International Airport;US;US-NY;Rochester;KROC;ROC;ROC;-77.67240142822266; 43.118900299072266
+KROG;small_airport;Rogers Municipal Airport-Carter Field;US;US-AR;Rogers;KROG;ROG;ROG;-94.10690308; 36.37229919
+KRST;large_airport;Rochester International Airport;US;US-MN;Rochester;KRST;RST;RST;-92.5; 43.90829849243164
+KSAA;small_airport;Shively Field;US;US-WY;Saratoga;KSAA;SAA;SAA;-106.823997; 41.444901
+KSAC;medium_airport;Sacramento Executive Airport;US;US-CA;Sacramento;KSAC;SAC;SAC;-121.492996216; 38.5125007629
+KSAN;large_airport;San Diego International Airport;US;US-CA;San Diego;KSAN;SAN;SAN;-117.190002441; 32.7336006165
+KSAR;small_airport;Sparta Community Hunter Field;US;US-IL;Sparta;KSAR;SAR;SAR;-89.6986999512; 38.1488990784
+KSAV;large_airport;Savannah Hilton Head International Airport;US;US-GA;Savannah;KSAV;SAV;SAV;-81.20210266; 32.12760162
+KSBN;large_airport;South Bend Regional Airport;US;US-IN;South Bend;KSBN;SBN;SBN;-86.31729888916016; 41.70869827270508
+KSCH;medium_airport;Schenectady County Airport;US;US-NY;Schenectady;KSCH;SCH;SCH;-73.928901672363; 42.852500915527
+KSDY;medium_airport;Sidney - Richland Regional Airport;US;US-MT;Sidney;KSDY;SDY;SDY;-104.193001; 47.706902
+KSEA;large_airport;Seattle Tacoma International Airport;US;US-WA;Seattle;KSEA;SEA;SEA;-122.308998; 47.449001
+KSFB;large_airport;Orlando Sanford International Airport;US;US-FL;Orlando;KSFB;SFB;SFB;-81.23750305175781; 28.777599334716797
+KSGF;large_airport;Springfield Branson National Airport;US;US-MO;Springfield;KSGF;SGF;SGF;-93.38860321; 37.24570084
+KSGR;medium_airport;Sugar Land Regional Airport;US;US-TX;Houston;KSGR;SGR;SGR;-95.65650177002; 29.622299194336
+KSHR;medium_airport;Sheridan County Airport;US;US-WY;Sheridan;KSHR;SHR;SHR;-106.9800033569336; 44.76919937133789
+KSKA;large_airport;Fairchild Air Force Base;US;US-WA;Spokane;KSKA;SKA;SKA;-117.65599823; 47.6151008606
+KSLC;large_airport;Salt Lake City International Airport;US;US-UT;Salt Lake City;KSLC;SLC;SLC;-111.97799682617188; 40.78839874267578
+KSLO;small_airport;Salem Leckrone Airport;US;US-IL;Salem;KSLO;SLO;SLO;-88.964202880859; 38.64289855957
+KSMS;small_airport;Sumter Airport;US;US-SC;Sumter;KSMS;SUM;SMS;-80.361297607422; 33.994998931885
+KSNA;large_airport;John Wayne Airport-Orange County Airport;US;US-CA;Santa Ana;KSNA;SNA;SNA;-117.8679962; 33.67570114
+KSPA;small_airport;Spartanburg Downtown Memorial Airport;US;US-SC;Spartanburg;KSPA;SPA;SPA;-81.956497192383; 34.915699005127
+KSPF;small_airport;Black Hills Airport-Clyde Ice Field;US;US-SD;Spearfish;KSPF;SPF;SPF;-103.78299713135; 44.48030090332
+KSPI;large_airport;Abraham Lincoln Capital Airport;US;US-IL;Springfield;KSPI;SPI;SPI;-89.67790222; 39.84410095
+KSRQ;large_airport;Sarasota Bradenton International Airport;US;US-FL;Sarasota/Bradenton;KSRQ;SRQ;SRQ;-82.55439758300781; 27.39539909362793
+KSRR;medium_airport;Sierra Blanca Regional Airport;US;US-NM;Ruidoso;KSRR;RUI;SRR;-105.53500366211; 33.462799072266
+KSSC;large_airport;Shaw Air Force Base;US;US-SC;Sumter;KSSC;SSC;SSC;-80.47059631; 33.97269821
+KSTL;large_airport;St Louis Lambert International Airport;US;US-MO;St Louis;KSTL;STL;STL;-90.370003; 38.748697
+KSUS;large_airport;Spirit of St Louis Airport;US;US-MO;St Louis;KSUS;SUS;SUS;-90.652000427246; 38.662101745605
+KSVC;small_airport;Grant County Airport;US;US-NM;Silver City;KSVC;SVC;SVC;-108.15599822998047; 32.63650131225586
+KSWF;medium_airport;Stewart International Airport;US;US-NY;Newburgh;KSWF;SWF;SWF;-74.10479736328125; 41.50410079956055
+KSYR;large_airport;Syracuse Hancock International Airport;US;US-NY;Syracuse;KSYR;SYR;SYR;-76.1063003540039; 43.11119842529297
+KTIW;medium_airport;Tacoma Narrows Airport;US;US-WA;Tacoma;KTIW;TIW;TIW;-122.5780029; 47.26789856
+KTOL;large_airport;Toledo Express Airport;US;US-OH;Toledo;KTOL;TOL;TOL;-83.80780029; 41.58679962
+KTOR;small_airport;Torrington Municipal Airport;US;US-WY;Torrington;KTOR;TOR;TOR;-104.1529999; 42.0644989
+KTRI;large_airport;Tri-Cities Regional TN/VA Airport;US;US-TN;Bristol/Johnson/Kingsport;KTRI;TRI;TRI;-82.407401; 36.475201
+KTRL;small_airport;Terrell Municipal Airport;US;US-TX;Terrell;KTRL;TRL;TRL;-96.267402648926; 32.709201812744
+KTUL;large_airport;Tulsa International Airport;US;US-OK;Tulsa;KTUL;TUL;TUL;-95.88809967041016; 36.19839859008789
+KTYS;large_airport;McGhee Tyson Airport;US;US-TN;Knoxville;KTYS;TYS;TYS;-83.9940033; 35.81100082
+KUGN;small_airport;Waukegan National Airport;US;US-IL;Chicago/Waukegan;KUGN;UGN;UGN;-87.867897033691; 42.422199249268
+KUUU;small_airport;Newport State Airport;US;US-RI;Newport;KUUU;NPT;UUU;-71.28150177; 41.5323982239
+KVCV;small_airport;Southern California Logistics Airport;US;US-CA;Victorville;KVCV;VCV;VCV;-117.383003235; 34.597499847399995
+KVNY;medium_airport;Van Nuys Airport;US;US-CA;Van Nuys;KVNY;VNY;VNY;-118.48999786377; 34.209800720215
+KWAL;small_airport;Wallops Flight Facility Airport;US;US-VA;Wallops Island;KWAL;WAL;WAL;-75.4664001465; 37.9402008057
+KWRB;large_airport;Robins Air Force Base;US;US-GA;Warner Robins;KWRB;WRB;WRB;-83.5919036865; 32.6400985718
+KWRI;medium_airport;Mc Guire Air Force Base;US;US-NJ;Wrightstown;KWRI;WRI;WRI;-74.59169769; 40.0155983
+KXNA;medium_airport;Northwest Arkansas Regional Airport;US;US-AR;Fayetteville/Springdale/Rogers;KXNA;XNA;XNA;-94.306801; 36.281898
+KYIP;medium_airport;Willow Run Airport;US;US-MI;Detroit;KYIP;YIP;YIP;-83.53040314; 42.23789978
+LBRS;closed;Ruse Airport;BG;BG-18;Ruse;LBRS;ROU;;26.056699752800004; 43.6948013306
+LBSS;closed;Silistra Polkovnik Lambrinovo Air Base;BG;BG-19;Silistra;LBSS;SLS;;27.178801; 44.055199
+LCRA;large_airport;RAF Akrotiri;GB;GB-U-A;Akrotiri;LCRA;AKT;;32.9879; 34.590401
+LEAL;large_airport;Alicante International Airport;ES;ES-V;Alicante;LEAL;ALC;;-0.5581560134887695; 38.28219985961914
+LEGE;medium_airport;Girona Airport;ES;ES-GE;Girona;LEGE;GRO;;2.7605500221; 41.901000977
+LEMD;large_airport;Adolfo SuÃ¡rez MadridâBarajas Airport;ES;ES-M;Madrid;LEMD;MAD;;-3.56264; 40.471926
+LFKF;medium_airport;Figari Sud-Corse Airport;FR;FR-H;Figari Sud-Corse;LFKF;FSC;;9.097780227661133; 41.5005989074707
+LFLX;medium_airport;"ChÃ¢teauroux-DÃ©ols ""Marcel Dassault"" Airport";FR;FR-F;ChÃ¢teauroux/DÃ©ols;LFLX;CHR;;1.721111; 46.860278
+LFLY;medium_airport;Lyon-Bron Airport;FR;FR-V;Lyon/Bron;LFLY;LYN;;4.944270133972168; 45.72719955444336
+LFML;large_airport;Marseille Provence Airport;FR;FR-U;Marseille;LFML;MRS;;5.22142410278; 43.439271922
+LGPA;small_airport;Paros National Airport;GR;GR-82;Paros Island;LGPA;PAS;;25.113195; 37.020495
+LHPP;medium_airport;PÃ©cs-PogÃ¡ny Airport;HU;HU-BA;PÃ©cs-PogÃ¡ny;LHPP;PEV;;18.240996; 45.990898
+LIDR;small_airport;Ravenna Airport;IT;IT-45;Ravenna;LIDR;RAN;RA06;12.224978; 44.36391
+LIML;large_airport;Milano Linate Airport;IT;IT-25;Milan;LIML;LIN;MI11;9.27674; 45.445099
+LIPT;closed;Vicenza Airport;IT;IT-34;Vicenza;LIPT;VIC;;11.5295; 45.573399
+LKC;small_airport;Lekana Airport;CG;CG-14;Lekana;;LKC;;14.606; -2.313
+LOR;heliport;Lowe AHP (Fort Rucker) Heliport;US;US-AL;Fort Rucker Ozark;KLOR;LOR;LOR;-85.75119781; 31.35580063
+LPBG;medium_airport;BraganÃ§a Airport;PT;PT-04;BraganÃ§a;LPBG;BGC;;-6.70713; 41.8578
+LRBC;medium_airport;BacÄu Airport;RO;RO-BC;BacÄu;LRBC;BCM;;26.91029930114746; 46.52190017700195
+LRBM;medium_airport;Tautii Magheraus Airport;RO;RO-MM;Baia Mare;LRBM;BAY;;23.469999313354492; 47.65840148925781
+LRCK;medium_airport;Mihail KogÄlniceanu International Airport;RO;RO-CT;ConstanÅ£a;LRCK;CND;;28.488300323486328; 44.36220169067383
+LRCV;medium_airport;Craiova Airport;RO;RO-DJ;Craiova;LRCV;CRA;;23.888599395751953; 44.31809997558594
+LTCD;medium_airport;Erzincan Airport;TR;TR-24;Erzincan;LTCD;ERC;;39.527000427199994; 39.7102012634
+LTCI;medium_airport;Van Ferit Melen Airport;TR;TR-65;Van;LTCI;VAN;;43.332298278808594; 38.46820068359375
+LTCJ;medium_airport;Batman Airport;TR;TR-72;Batman;LTCJ;BAL;;41.1166000366; 37.929000854499996
+MAP;small_airport;Mamai Airport;PG;PG-CPM;Mamai;;MAP;;149.519166667; -10.290833333299998
+MBNC;medium_airport;North Caicos Airport;TC;TC-NC;;MBNC;NCA;;-71.939598; 21.9175
+MDJB;medium_airport;La Isabela International Airport;DO;DO-01;La Isabela;MDJB;JBQ;;-69.98560333251953; 18.572500228881836
+MGPP;small_airport;PoptÃºn Airport;GT;GT-PE;PoptÃºn;MGPP;PON;;-89.41609954834; 16.325799942017
+MHCU;small_airport;Cauquira Airport;HN;HN-GD;Cauquira;MHCU;CDD;;-83.591667; 15.316667
+MHGS;small_airport;Celaque Airport;HN;HN-LE;Gracias;MHGS;GAC;;-88.595801; 14.573492
+MHYR;small_airport;Yoro Airport;HN;HN-YO;Yoro;MHYR;ORO;;-87.135; 15.1275
+MMAS;medium_airport;JesÃºs TerÃ¡n Paredo International Airport;MX;MX-AGU;Aguascalientes;MMAS;AGU;;-102.318001; 21.705601
+MMCA;small_airport;Cananea National Airport;MX;MX-SON;Cananea;MMCA;CNA;CNA;-110.097878; 31.06615
+MMGL;large_airport;Don Miguel Hidalgo Y Costilla International Airport;MX;MX-JAL;Guadalajara;MMGL;GDL;;-103.31099700927734; 20.521799087524414
+MMHO;large_airport;General Ignacio P. Garcia International Airport;MX;MX-SON;Hermosillo;MMHO;HMO;;-111.047996521; 29.095899581900003
+MMMX;large_airport;Licenciado Benito Juarez International Airport;MX;MX-DIF;Mexico City;MMMX;MEX;ME1;-99.072098; 19.4363
+MMMY;large_airport;General Mariano Escobedo International Airport;MX;MX-NLE;Monterrey;MMMY;MTY;;-100.107002258; 25.7784996033
+MMNG;small_airport;Nogales International Airport;MX;MX-SON;;MMNG;NOG;;-110.97599792480469; 31.22610092163086
+MMSP;medium_airport;Ponciano Arriaga International Airport;MX;MX-SLP;San Luis PotosÃ­;MMSP;SLP;;-100.930999756; 22.254299163800003
+MMTM;medium_airport;General Francisco Javier Mina International Airport;MX;MX-TAM;Tampico;MMTM;TAM;;-97.8658981323; 22.2964000702
+MMUN;large_airport;CancÃºn International Airport;MX;MX-ROO;CancÃºn;MMUN;CUN;;-86.8770980835; 21.036500930800003
+MMVR;medium_airport;General Heriberto Jara International Airport;MX;MX-VER;Veracruz;MMVR;VER;;-96.1873016357; 19.1459007263
+MPBO;medium_airport;Bocas Del Toro International Airport;PA;PA-1;Isla ColÃ³n;MPBO;BOC;;-82.25080108642578; 9.340849876403809
+MPTO;large_airport;Tocumen International Airport;PA;PA-8;Tocumen;MPTO;PTY;;-79.3834991455; 9.0713596344
+MROC;medium_airport;Juan Santamaria International Airport;CR;CR-A;San Jose;MROC;SJO;;-84.20880126953125; 9.993860244750977
+MTCH;medium_airport;Cap Haitien International Airport;HT;HT-ND;Cap Haitien;MTCH;CAP;;-72.194702; 19.733
+MTPX;medium_airport;Port-de-Paix Airport;HT;HT-NO;Port-de-Paix;MTPX;PAX;;-72.84860229492188; 19.9335994720459
+MUSJ;medium_airport;San Julian Air Base;CU;CU-01;Pinar Del Rio;MUSJ;SNJ;;-84.1520004272461; 22.095300674438477
+MWCR;large_airport;Owen Roberts International Airport;KY;KY-U-A;Georgetown;MWCR;GCM;;-81.3576965332; 19.292800903299998
+MYAB;medium_airport;Clarence A. Bain Airport;BS;BS-KB;Mangrove Cay;MYAB;MAY;;-77.68460083007812; 24.287700653076172
+MYNN;large_airport;Lynden Pindling International Airport;BS;BS-NP;Nassau;MYNN;NAS;;-77.46620178219999; 25.0389995575
+NGNU;small_airport;Nikunau Airport;KI;KI-G;Nikunau;NGNU;NIG;;176.410003662; -1.31444001198
+NOM;small_airport;Nomad River Airport;PG;PG-WPD;Nomad River;;NOM;NDR;142.234166667; -6.294
+NOO;small_airport;Naoro Airport;PG;PG-CPM;Naoro Vilage;;NOO;NAO;147.621352; -9.254455
+NVSM;small_airport;Lamen Bay Airport;VU;VU-SEE;Lamen Bay;NVSM;LNB;;168.158996582; -16.584199905400002
+NZCI;medium_airport;Chatham Islands-Tuuta Airport;NZ;NZ-WGN;Waitangi;NZCI;CHT;;-176.45700073242188; -43.810001373291016
+NZFJ;small_airport;Franz Josef Aerodrome;NZ;NZ-WTC;;NZFJ;WHO;;170.13400268554688; -43.36309814453125
+NZMC;medium_airport;Mount Cook Airport;NZ;NZ-CAN;;NZMC;MON;;170.13299560546875; -43.76499938964844
+OAIX;medium_airport;Bagram Air Base;AF;AF-PAR;Bagram;OAIX;OAI;;69.26499938959999; 34.9460983276
+OEMA;large_airport;Prince Mohammad Bin Abdulaziz Airport;SA;SA-03;Medina;OEMA;MED;;39.705101; 24.5534
+OINE;small_airport;Kalaleh Airport;IR;IR-27;Kalaleh;OINE;KLM;;55.4519996643; 37.3833007812
+OITL;medium_airport;Ardabil Airport;IR;IR-03;Ardabil;OITL;ADU;;48.4244003296; 38.3256988525
+OMAA;large_airport;Abu Dhabi International Airport;AE;AE-AZ;Abu Dhabi;OMAA;AUH;;54.651100158691406; 24.433000564575195
+OSAP;large_airport;Aleppo International Airport;SY;SY-HL;Aleppo;OSAP;ALP;;37.22439956665039; 36.18069839477539
+OTT;small_airport;Andre Maggi Airport;BR;BR-MT;CotriguaÃ§u;;OTT;;-58.581944; -9.898611
+PAFR;heliport;Bryant Army Heliport;US;US-AK;Fort Richardson(Anchorage);PAFR;FRN;FRN;-149.6529999; 61.26639938
+PAGA;medium_airport;Edward G. Pitka Sr Airport;US;US-AK;Galena;PAGA;GAL;GAL;-156.9369965; 64.73619843
+PAGN;seaplane_base;Angoon Seaplane Base;US;US-AK;Angoon;PAGN;AGN;AGN;-134.585007; 57.503601
+PAHN;medium_airport;Haines Airport;US;US-AK;Haines;PAHN;HNS;HNS;-135.5240020751953; 59.24380111694336
+PAHO;medium_airport;Homer Airport;US;US-AK;Homer;PAHO;HOM;HOM;-151.4770050048828; 59.645599365234375
+PAKV;small_airport;Kaltag Airport;US;US-AK;Kaltag;PAKV;KAL;KAL;-158.7409973; 64.31909943
+PANC;large_airport;Ted Stevens Anchorage International Airport;US;US-AK;Anchorage;PANC;ANC;ANC;-149.99600219726562; 61.174400329589844
+PAPO;small_airport;Point Hope Airport;US;US-AK;Point Hope;PAPO;PHO;PHO;-166.7989959716797; 68.34880065917969
+PASC;medium_airport;Deadhorse Airport;US;US-AK;Deadhorse;PASC;SCC;SCC;-148.4649963; 70.19470215
+PASD;medium_airport;Sand Point Airport;US;US-AK;Sand Point;PASD;SDP;SDP;-160.5229949951172; 55.314998626708984
+PASN;medium_airport;St Paul Island Airport;US;US-AK;St Paul Island;PASN;SNP;SNP;-170.22000122070312; 57.167301177978516
+PAUN;small_airport;Unalakleet Airport;US;US-AK;Unalakleet;PAUN;UNK;UNK;-160.798996; 63.88840103
+PG-0009;small_airport;Garaina Airport;PG;PG-MPL;Garaina;AYGI;GAR;GNA;147.141265869; -7.875625027460001
+PHKO;medium_airport;Ellison Onizuka Kona International At Keahole Airport;US;US-HI;Kailua/Kona;PHKO;KOA;KOA;-156.045603; 19.738783
+PHLI;medium_airport;Lihue Airport;US;US-HI;Lihue;PHLI;LIH;LIH;-159.33900451660156; 21.97599983215332
+PHOG;medium_airport;Kahului Airport;US;US-HI;Kahului;PHOG;OGG;OGG;-156.429993; 20.8986
+PK-0001;large_airport;New Islamabad International Airport;PK;PK-PB;Islamabad;OPIS;ISB;OPIS;72.851613; 33.560713
+PK-GRT;small_airport;Gujrat Airport;PK;PK-PB;Gujrat;;GRT;;74.07710266113281; 32.60309982299805
+PPIZ;medium_airport;Point Lay LRRS Airport;US;US-AK;Point Lay;PPIZ;PIZ;PIZ;-163.0050049; 69.73290253
+RJAA;large_airport;Narita International Airport;JP;JP-12;Tokyo;RJAA;NRT;;140.386001587; 35.7647018433
+RKJU;small_airport;Jeon Ju Airport (G-703);KR;KR-45;Jeon Ju;RKJU;CHN;;127.119112; 35.87808
+RKPE;small_airport;Jinhae Airbase/Airport (G-813/K-10);KR;KR-48;Jinhae;RKPE;CHF;;128.696229; 35.140248
+RKSI;large_airport;Incheon International Airport;KR;KR-28;Seoul;RKSI;ICN;;126.45099639892578; 37.46910095214844
+RKSO;large_airport;Osan Air Base;KR;KR-41;;RKSO;OSN;;127.029999; 37.090599
+RODN;large_airport;Kadena Air Base;JP;JP-47;;RODN;DNA;;127.767998; 26.3556
+RPUM;medium_airport;Mamburao Airport;PH;PH-MDC;;RPUM;MBO;;120.6050033569336; 13.208100318908691
+RPVA;medium_airport;Daniel Z. Romualdez Airport;PH;PH-LEY;Tacloban City;RPVA;TAC;DZR;125.027761; 11.228035
+SAAR;medium_airport;Islas Malvinas Airport;AR;AR-S;Rosario;SAAR;ROS;ROS;-60.785; -32.9036
+SAEZ;large_airport;Ministro Pistarini International Airport;AR;AR-B;Buenos Aires;SAEZ;EZE;EZE;-58.5358; -34.8222
+SANT;medium_airport;Teniente Benjamin Matienzo Airport;AR;AR-T;San Miguel de TucumÃ¡n;SANT;TUC;TUC;-65.104897; -26.8409
+SAS;small_airport;Salton Sea Airport;US;US-CA;Salton City;KSAS;SAS;SAS;-115.952003479; 33.2414016724
+SATC;small_airport;Clorinda Airport;AR;AR-P;Clorinda;SATC;CLX;CLO;-57.7344; -25.3036
+SAZO;medium_airport;Necochea Airport;AR;AR-B;Necochea;SAZO;NEC;NEC;-58.8172; -38.4831
+SAZW;medium_airport;Cutral-Co Airport;AR;AR-Q;Cutral-Co;SAZW;CUT;CUT;-69.2646026611; -38.939701080300004
+SBBE;large_airport;Val de Cans/JÃºlio Cezar Ribeiro International Airport;BR;BR-PA;BelÃ©m;SBBE;BEL;;-48.4762992859; -1.3792500495900002
+SBBU;medium_airport;Bauru Airport;BR;BR-SP;Bauru;SBBU;BAU;;-49.0537986755; -22.3449993134
+SBCV;medium_airport;Caravelas Airport;BR;BR-BA;Caravelas;SBCV;CRQ;;-39.253101348877; -17.652299880981
+SBDB;small_airport;Bonito Airport;BR;BR-MS;Bonito;SBDB;BYO;;-56.4525; -21.2473
+SBFZ;medium_airport;Pinto Martins International Airport;BR;BR-CE;Fortaleza;SBFZ;FOR;;-38.53260040283203; -3.776279926300049
+SBGR;large_airport;Guarulhos - Governador AndrÃ© Franco Montoro International Airport;BR;BR-SP;SÃ£o Paulo;SBGR;GRU;;-46.47305679321289; -23.435556411743164
+SBPC;medium_airport;PoÃ§os de Caldas - Embaixador Walther Moreira Salles Airport;BR;BR-MG;PoÃ§os De Caldas;SBPC;POO;;-46.567901611328; -21.843000411987
+SBTL;medium_airport;TelÃªmaco Borba Airport;BR;BR-PR;TelÃªmaco Borba;SBTL;TEC;;-50.6515998840332; -24.317800521850586
+SBTU;medium_airport;TucuruÃ­ Airport;BR;BR-PA;TucuruÃ­;SBTU;TUR;;-49.72029876709; -3.7860100269318
+SCAN;small_airport;San Rafael Airport;CL;CL-VS;Los Andes;SCAN;LOB;;-70.64669799804688; -32.81420135498047
+SCEL;large_airport;Comodoro Arturo Merino BenÃ­tez International Airport;CL;CL-RM;Santiago;SCEL;SCL;;-70.78579711914062; -33.393001556396484
+SCEV;small_airport;El Avellano Airport;CL;CL-LL;Frutillar;SCEV;FRT;;-73.05000305175781; -41.117000579833984
+SEMA;medium_airport;Jose Maria Velasco Ibarra Airport;EC;EC-L;MacarÃ¡;SEMA;MRR;;-79.94100189210002; -4.37823009491
+SEQM;large_airport;Mariscal Sucre International Airport;EC;EC-P;Quito;SEQM;UIO;UIO;-78.3575; -0.129166666667
+SFR;closed;San Fernando Airport;US;US-CA;Los Angeles;;SFR;;-118.422; 34.289
+SK-116;small_airport;Pore Airport;CO;CO-CAS;Pore;;PRE;POR;-71.983333; 5.733333
+SK-217;small_airport;Medina Airport;CO;CO-CUN;Medina;;MND;MND;-73.283333; 4.516667
+SK-245;small_airport;Santana Ramos Airport;CO;CO-HUI;Santana Ramos;;SRO;SRO;-75.25; 2.216667
+SKBO;large_airport;El Dorado International Airport;CO;CO-CUN;Bogota;SKBO;BOG;BOG;-74.1469; 4.70159
+SKGP;medium_airport;Juan Casiano Airport;CO;CO-CAU;Guapi;SKGP;GPI;GPI;-77.8986; 2.57013
+SKRG;medium_airport;Jose Maria CÃ³rdova International Airport;CO;CO-ANT;MedellÃ­n;SKRG;MDE;MDE;-75.4231; 6.16454
+SNPX;small_airport;Pirapora Airport;BR;BR-MG;Pirapora;SNPX;PIV;SNPX;-44.86029815673828; -17.3169002532959
+SNYE;small_airport;Pinheiro Airport;BR;BR-MA;Pinheiro;SNYE;PHI;SNYE;-45.067222595214844; -2.4836111068725586
+SPEO;medium_airport;Teniente FAP Jaime A De Montreuil Morales Airport;PE;PE-ANC;Chimbote;SPEO;CHM;;-78.5238037109375; -9.149609565734863
+SPIM;large_airport;Jorge ChÃ¡vez International Airport;PE;PE-LIM;Lima;SPJC;LIM;;-77.114305; -12.0219
+SPTU;medium_airport;Padre Aldamiz International Airport;PE;PE-MDD;Puerto Maldonado;SPTU;PEM;;-69.2285995483; -12.6135997772
+SRL;small_airport;Palo Verde Airport;MX;MX-BCS;Santa Rosalia;;SRL;CIB;-112.0985; 27.0927
+SSDO;small_airport;Dourados Airport;BR;BR-MS;Dourados;SBDO;DOU;SBDO;-54.926601; -22.2019
+SSLN;small_airport;Helmuth Baungarten Airport;BR;BR-SC;Lontras;SSLN;LOI;SSLN;-49.5424995422; -27.159999847399998
+SSPB;small_airport;Pato Branco Airport;BR;BR-PR;Pato Branco;SSPB;PTO;SSPB;-52.69430160522461; -26.21780014038086
+SSPG;small_airport;ParanaguÃ¡ Airport;BR;BR-PR;ParanaguÃ¡;SSPG;PNG;SSPG;-48.53120040893555; -25.54010009765625
+SSPN;small_airport;ParanaÃ­ba Airport;BR;BR-MS;ParanaÃ­ba;SSPN;PBB;SSPN;-51.19940185546875; -19.651199340820312
+SUMU;large_airport;Carrasco International /General C L Berisso Airport;UY;UY-CA;Montevideo;SUMU;MVD;;-56.0308; -34.838402
+SVBC;large_airport;General JosÃ© Antonio Anzoategui International Airport;VE;VE-B;Barcelona;SVBC;BLA;;-64.692222; 10.111111
+SVMC;medium_airport;La Chinita International Airport;VE;VE-V;Maracaibo;SVMC;MAR;;-71.7278594971; 10.5582084656
+SWBG;small_airport;Pontes e Lacerda Airport;BR;BR-MT;Pontes e Lacerda;SWBG;LCB;;-59.3848; -15.1934
+SWE;small_airport;Siwea Airport;PG;PG-MPL;Siwea;AYEW;SWE;SIW;147.580833; -6.284639
+SWGI;small_airport;Gurupi Airport;BR;BR-TO;Gurupi;SWGI;GRP;SWGI;-49.132198333740234; -11.73960018157959
+SWOB;small_airport;Fonte Boa Airport;BR;BR-AM;Fonte Boa;SWOB;FBA;SWOB;-66.0831985474; -2.5326099395800004
+SWPI;small_airport;Parintins Airport;BR;BR-AM;Parintins;SWPI;PIN;SWPI;-56.777198791503906; -2.6730198860168457
+SWRD;small_airport;Maestro Marinho Franco Airport;BR;BR-MT;RondonÃ³polis;SBRD;ROO;SBRD;-54.7248; -16.586
+SYCJ;medium_airport;Cheddi Jagan International Airport;GY;GY-DE;Georgetown;SYCJ;GEO;SYGT;-58.25410079956055; 6.498549938201904
+SYLP;small_airport;Lumid Pau Airport;GY;GY-UT;Lumid Pau;SYLP;LUB;;-59.4410018921; 2.3939299583399998
+TGPZ;small_airport;Lauriston Airport;GD;GD-PA;Carriacou Island;TGPZ;CRU;;-61.472801208496094; 12.476099967956543
+TIST;medium_airport;Cyril E. King Airport;VI;VI-U-A;Charlotte Amalie, Harry S. Truman Airport;TIST;STT;STT;-64.97339630126953; 18.337299346923828
+TJBQ;medium_airport;Rafael Hernandez Airport;PR;PR-U-A;Aguadilla;TJBQ;BQN;BQN;-67.12940216064453; 18.49489974975586
+TJCP;small_airport;Benjamin Rivera Noriega Airport;PR;PR-U-A;Culebra Island;TJCP;CPX;CPX;-65.304324; 18.313289
+TJFA;medium_airport;Diego Jimenez Torres Airport;PR;PR-U-A;Fajardo;TJFA;FAJ;X95;-65.66190338134766; 18.308900833129883
+TJPS;medium_airport;Mercedita Airport;PR;PR-U-A;Ponce;TJPS;PSE;PSE;-66.56300354003906; 18.00830078125
+TJVQ;small_airport;Antonio Rivera Rodriguez Airport;PR;PR-U-A;Vieques Island;TJVQ;VQS;VQS;-65.493598938; 18.1347999573
+TLPC;medium_airport;George F. L. Charles Airport;LC;LC-02;Castries;TLPC;SLU;;-60.992901; 14.0202
+TNCC;medium_airport;Hato International Airport;CW;CW-U-A;Willemstad;TNCC;CUR;;-68.959801; 12.1889
+TOK;small_airport;Torokina Airport;PG;PG-NSB;Torokina;;TOK;TKN;155.063; -6.2015
+TXKF;medium_airport;L.F. Wade International International Airport;BM;BM-U-A;Hamilton;TXKF;BDA;;-64.67870330810547; 32.36399841308594
+UAAA;large_airport;Almaty Airport;KZ;KZ-ALM;Almaty;UAAA;ALA;;77.04049682617188; 43.35210037231445
+UATE;medium_airport;Aktau Airport;KZ;KZ-MAN;Aktau;UATE;SCO;;51.091999; 43.8601
+UERS;medium_airport;Saskylakh Airport;RU;RU-SA;Saskylakh;UERS;SYS;;114.08000183105; 71.92790222168
+UGSB;medium_airport;Batumi International Airport;GE;GE-AJ;Batumi;UGSB;BUS;;41.5997009277; 41.6102981567
+UHPP;medium_airport;Yelizovo Airport;RU;RU-KAM;Petropavlovsk-Kamchatsky;UHPP;PKC;;158.45399475097656; 53.16790008544922
+UUBI;medium_airport;Ivanovo South Airport;RU;RU-IVA;Ivanovo;UUBI;IWA;;40.940799713134766; 56.93939971923828
+UWOO;medium_airport;Orenburg Central Airport;RU;RU-ORE;Orenburg;UWOO;REN;;55.45669937133789; 51.795799255371094
+UWOR;medium_airport;Orsk Airport;RU;RU-ORE;Orsk;UWOR;OSW;;58.59560012817383; 51.0724983215332
+VASD;medium_airport;Shirdi Airport;IN;IN-MM;Shirdi;VASD;SAG;;74.378889; 19.688611
+VCCB;medium_airport;Batticaloa Airport;LK;LK-5;Batticaloa;VCCB;BTC;;81.678802; 7.70576
+VDPP;large_airport;Phnom Penh International Airport;KH;KH-8;Phnom Penh;VDPP;PNH;;104.84400177001953; 11.546600341796875
+VE-0206;small_airport;La Guaira Airport;VE;VE-X;La Guaira;;LAG;;-67.0333328247; 10.5333299637
+VGCM;small_airport;Comilla Airport;BD;BD-2;Comilla;VGCM;CLA;;91.189697265625; 23.43720054626465
+VGZR;large_airport;Hazrat Shahjalal International Airport;BD;BD-3;Dhaka;VGHS;DAC;;90.397783; 23.843347
+VIB;closed;Villa ConstituciÃ³n Airport;MX;MX-BCS;Ciudad ConstituciÃ³n;;VIB;;-111.6874; 25.0552
+VNBW;medium_airport;Gautam Buddha Airport;NP;NP-LU;Bhairawa;VNBW;BWA;;83.416293; 27.505685
+VOHS;large_airport;Rajiv Gandhi International Airport;IN;IN-TG;Hyderabad;VOHS;HYD;;78.4298553467; 17.2313175201
+VOMM;large_airport;Chennai International Airport;IN;IN-TN;Chennai;VOMM;MAA;;80.16929626464844; 12.990005493164062
+VOPN;medium_airport;Sri Sathya Sai Airport;IN;IN-AP;Puttaparthi;VOPN;PUT;;77.7910995483; 14.1492996216
+VOTV;large_airport;Trivandrum International Airport;IN;IN-KL;Thiruvananthapuram;VOTV;TRV;;76.9200973511; 8.48211956024
+VRMD;small_airport;Dharavandhoo Airport;MV;MV-20;Baa Atoll;VRMD;DRV;;73.1302; 5.1561
+VTSK;medium_airport;Pattani Airport;TH;TH-94;;VTSK;PAN;;101.15399932861328; 6.785459995269775
+VTST;medium_airport;Trang Airport;TH;TH-92;;VTST;TST;;99.6166000366211; 7.508739948272705
+VTUI;medium_airport;Sakon Nakhon Airport;TH;TH-47;;VTUI;SNO;;104.11900329589844; 17.195100784301758
+VYKG;medium_airport;Kengtung Airport;MM;MM-17;Kengtung;VYKG;KET;;99.63600158691406; 21.301599502563477
+WAJR;small_airport;Waris Airport;ID;ID-PA;Swach;WAJR;WAR;;140.994; -3.235
+WAMP;medium_airport;Kasiguncu Airport;ID;ID-ST;Poso-Celebes Island;WAMP;PSJ;;120.657997131; -1.41674995422
+WAPE;small_airport;Mangole Airport, Falabisahaya;ID;ID-MU;Mangole Island;WAPE;MAL;;125.83000183105469; -1.875789999961853
+WAPH;small_airport;Oesman Sadik Airport, Labuha;ID;ID-MU;Labuha-Halmahera Island;WAPH;LAH;;127.50199890136719; -0.6352589726448059
+WBKO;small_airport;Sepulot Airport;MY;MY-12;Sepulot;WBKO;SPE;;116.46700286865234; 4.732999801635742
+WMKP;medium_airport;Penang International Airport;MY;MY-07;Penang;WMKP;PEN;;100.2770004272461; 5.297140121459961
+WRKS;small_airport;Sabu-Tardanu Airport;ID;ID-NT;Sabu-Sawu Island;WATS;SAU;;121.8482; -10.4924
+WSB;seaplane_base;Steamboat Bay Seaplane Base;US;US-AK;Steamboat Bay;WSB;WSB;WSB;-133.641998291; 55.5295982361
+YABI;small_airport;Abingdon Downs Airport;AU;AU-QLD;;YABI;ABG;;143.167007446; -17.616699218799997
+YAMT;small_airport;Amata Airport;AU;AU-SA;;YAMT;AMT;;131.20700073242188; -26.108299255371094
+YBGB;small_airport;Beagle Bay Airport;AU;AU-WA;Beagle Bay;YBGB;BEE;;122.6464; -17.0165
+YBTR;medium_airport;Blackwater Airport;AU;AU-QLD;;YBTR;BLT;;148.8070068359375; -23.603099822998047
+YBWR;small_airport;Bolwarra Airport;AU;AU-QLD;;YBWR;BCK;;144.169006348; -17.388299942
+YCBR;small_airport;Collarenebri Airport;AU;AU-NSW;;YCBR;CRB;;148.58200073242188; -29.521699905395508
+YCCT;small_airport;Coconut Island Airport;AU;AU-QLD;;YCCT;CNC;;143.07000732421875; -10.050000190734863
+YCCY;medium_airport;Cloncurry Airport;AU;AU-QLD;Cloncurry;YCCY;CNJ;;140.503997803; -20.668600082399998
+YDLV;small_airport;Delissaville Airport;AU;AU-NT;;YDLV;DLV;;130.68499755859375; -12.550000190734863
+YFBS;medium_airport;Forbes Airport;AU;AU-NSW;Forbes;YFBS;FRB;;147.934998; -33.363602
+YGLB;medium_airport;Goulburn Airport;AU;AU-NSW;;YGLB;GUL;;149.7259979248047; -34.810298919677734
+YHHY;small_airport;Highbury Airport;AU;AU-QLD;;YHHY;HIG;;143.145996094; -16.4244003296
+YHID;medium_airport;Horn Island Airport;AU;AU-QLD;Horn Island;YHID;HID;;142.289993286; -10.586400032
+YJDA;small_airport;Jundah Airport;AU;AU-QLD;;YJDA;JUN;;143.05799865722656; -24.841699600219727
+YMDS;small_airport;Macdonald Downs Airport;AU;AU-NT;;YMDS;MNW;;135.199005127; -22.444000244099996
+YMOT;small_airport;Moreton Airport;AU;AU-QLD;Moreton;YMOT;MET;;142.638000488; -12.444199562099998
+YNRC;small_airport;Naracoorte Airport;AU;AU-SA;;YNRC;NAC;;140.72500610351562; -36.98529815673828
+YNRG;small_airport;Narrogin Airport;AU;AU-WA;Narrogin;YNRG;NRG;;117.08000183105; -32.930000305176
+YNSH;small_airport;Noosa Airport;AU;AU-QLD;;YNSH;NSV;;153.06300354003906; -26.42329978942871
+YOOM;small_airport;Moomba Airport;AU;AU-SA;;YOOM;MOO;;140.19700622558594; -28.09939956665039
+YPDA;small_airport;Parndana Airport;AU;AU-SA;Kangaroo Island;YPDA;PDN;YPDA;137.264; -35.807
+YPPH;large_airport;Perth International Airport;AU;AU-WA;Perth;YPPH;PER;;115.96700286865234; -31.94029998779297
+YRMD;small_airport;Richmond Airport;AU;AU-QLD;;YRMD;RCM;;143.11500549316406; -20.701900482177734
+YSII;small_airport;Saibai Island Airport;AU;AU-QLD;Saibai Island;YSII;SBR;;142.625; -9.378330230710002
+YTRE;medium_airport;Taree Airport;AU;AU-NSW;Taree;YTRE;TRO;;152.514007568; -31.8885993958
+YWDA;small_airport;Windarra Airport;AU;AU-WA;;YWDA;WND;;122.241996765; -28.4750003815
+YWOR;small_airport;Wollogorang Airport;AU;AU-NT;;YWOR;WLL;;137.93453; -17.2199
+YWTN;medium_airport;Winton Airport;AU;AU-QLD;;YWTN;WIN;;143.08599853515625; -22.36359977722168
+ZBAA;large_airport;Beijing Capital International Airport;CN;CN-11;Beijing;ZBAA;PEK;;116.58499908447266; 40.080101013183594
+ZGGG;large_airport;Guangzhou Baiyun International Airport;CN;CN-44;Guangzhou;ZGGG;CAN;;113.29900360107422; 23.39240074157715
+ZJQH;medium_airport;Qionghai Bo'ao Airport;CN;CN-46;Qionghai;ZJQH;BAR;;110.454775; 19.13824
+ZSSS;large_airport;Shanghai Hongqiao International Airport;CN;CN-31;Shanghai;ZSSS;SHA;;121.33599853515625; 31.197900772094727
+ZULB;small_airport;Libo Airport;CN;CN-52;Libo County;ZULB;LLB;;107.961667; 25.4525
+ZULP;small_airport;Liangping Airport;CN;CN-50;Liangping;ZULP;LIA;;107.786003; 30.679399
+ZYJS;medium_airport;Jiansanjiang Airport;CN;CN-23;Jiansanjiang;ZYJS;JSJ;;132.660278; 47.11
